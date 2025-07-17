@@ -15,7 +15,7 @@ class strLen {
 	}
 }
 
-// time -> o(1) bc In Java, the length of a string is stored internally as a
+// time complexity -> o(1) bc In Java, the length of a string is stored internally as a
 // field when the String object is created. So when you call .length(), you're
 // not looping through characters — you're just accessing a precomputed integer.
 // yani javada aslında bir string şöyle saklanır:
