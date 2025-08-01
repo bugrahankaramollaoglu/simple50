@@ -1,0 +1,21 @@
+Capitalize First Letter
+
+Write a function that capitalizes the first letter of each word in a string.
+
+Example:
+Input: "hello world"
+Output: "Hello World"
+
+Input: "java programming"
+Output: "Java Programming"
+
+Input: "a b c"
+Output: "A B C"
+
+Input: "hello"
+Output: "Hello"
+
+Input: ""
+Output: ""
+
+Note: Words are separated by spaces.

@@ -1,0 +1,21 @@
+Count Digits
+
+Write a function that counts the number of digits in a number.
+
+Example:
+Input: 123
+Output: 3
+
+Input: 4567
+Output: 4
+
+Input: 0
+Output: 1
+
+Input: 1
+Output: 1
+
+Input: -123
+Output: 3
+
+Note: Count absolute value for negative numbers.

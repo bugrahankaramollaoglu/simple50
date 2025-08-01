@@ -1,0 +1,18 @@
+Most Frequent Character
+
+Write a function that finds the most frequent character in a string.
+
+Example:
+Input: "hello"
+Output: 'l'
+
+Input: "programming"
+Output: 'g'
+
+Input: "aabbcc"
+Output: 'a'
+
+Input: "abc"
+Output: 'a'
+
+Note: Return the first character if there's a tie.

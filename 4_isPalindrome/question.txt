@@ -1,0 +1,19 @@
+Palindrome Check
+
+Write a function that checks if a string is a palindrome (reads the same forwards and backwards).
+
+Example:
+Input: "racecar"
+Output: true
+
+Input: "hello"
+Output: false
+
+Input: "anna"
+Output: true
+
+Input: "a"
+Output: true
+
+Input: ""
+Output: true

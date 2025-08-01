@@ -1,0 +1,18 @@
+Anagram Check
+
+Write a function that checks if two strings are anagrams (contain the same characters).
+
+Example:
+Input: s1 = "listen", s2 = "silent"
+Output: true
+
+Input: s1 = "hello", s2 = "world"
+Output: false
+
+Input: s1 = "anagram", s2 = "nagaram"
+Output: true
+
+Input: s1 = "rat", s2 = "car"
+Output: false
+
+Note: Anagrams have the same characters with same frequency.

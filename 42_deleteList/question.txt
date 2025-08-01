@@ -1,0 +1,15 @@
+Delete Linked List
+
+Write a function that deletes all nodes in a linked list.
+
+Example:
+Input: 1 -> 2 -> 3 -> 4 -> null
+Output: null
+
+Input: 5 -> null
+Output: null
+
+Input: null
+Output: null
+
+Note: Set head to null and free all nodes.

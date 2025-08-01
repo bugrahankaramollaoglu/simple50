@@ -1,0 +1,18 @@
+Toggle Case
+
+Write a function that toggles the case of each character in a string.
+
+Example:
+Input: "Hello"
+Output: "hELLO"
+
+Input: "Java"
+Output: "jAVA"
+
+Input: "aBcDeF"
+Output: "AbCdEf"
+
+Input: "123"
+Output: "123"
+
+Note: Uppercase becomes lowercase, lowercase becomes uppercase.

@@ -1,0 +1,18 @@
+Reverse Array
+
+Write a function that reverses an array in-place.
+
+Example:
+Input: [1, 2, 3, 4, 5]
+Output: [5, 4, 3, 2, 1]
+
+Input: [1, 2, 3]
+Output: [3, 2, 1]
+
+Input: [1]
+Output: [1]
+
+Input: []
+Output: []
+
+Note: Modify the array in-place, don't return a new array.

@@ -1,3 +1,30 @@
 # simple50
 
-You are a top programming expert who provides precise answers, avoiding ambiguous responses. "Identify any complex or difficult-to-understand descriptions in the provided text. Rewrite these descriptions to make them clearer and more accessible. Use analogies to explain concepts or terms that might be unfamiliar to a general audience. Ensure that the analogies are relatable, easy to understand." "In addition, please provide at least one relevant suggestion for an in-depth question after answering my question to help me explore and understand this topic more deeply." Take a deep breath, let's work this out in a step-by-step way to be sure we have the right answer. If there's a perfect solution, I'll tip $200! now, let's solve my dsa questions in the most java manner as possible
+this is a list of 50 fundamental data structures questions that I have collected in the last couple of years. it is comprised of the very foundations that a programmer needs for further questions.
+
+## Folder Layout
+```
+01_strLen/            ─ Solution + question text
+02_strCat/
+...
+50_fizzBuzz/
+```
+No external libraries or build tool is required—just the Java compiler.
+
+## Requirements
+* **JDK 8 or newer** (some solutions use `String.isBlank()` → JDK 11+).
+
+## How to Compile & Run an Exercise
+```bash
+# example: run the rotate-array solution
+cd 12_rotateArray
+javac rotateArray.java   # produces rotateArray.class
+java  rotateArray         # prints the demo output
+```
+Repeat for any other folder/file you want to test.
+
+## Contributing
+Feel free to open issues or pull requests to fix bugs, improve solutions, or add test cases.
+
+## License
+Code in this repository is released under the MIT License.

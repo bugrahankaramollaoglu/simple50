@@ -1,0 +1,21 @@
+Prime Number Check
+
+Write a function that checks if a number is prime.
+
+Example:
+Input: 2
+Output: true
+
+Input: 17
+Output: true
+
+Input: 4
+Output: false
+
+Input: 1
+Output: false
+
+Input: 0
+Output: false
+
+Note: A prime number has exactly two divisors: 1 and itself.

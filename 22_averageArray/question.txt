@@ -1,0 +1,18 @@
+Array Average
+
+Write a function that calculates the average of all elements in an array.
+
+Example:
+Input: [1, 2, 3, 4, 5]
+Output: 3.0
+
+Input: [10, 20, 30]
+Output: 20.0
+
+Input: [1, 1, 1, 1]
+Output: 1.0
+
+Input: []
+Output: 0.0
+
+Note: Return a double value. Handle empty array case.

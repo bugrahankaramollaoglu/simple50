@@ -1,0 +1,21 @@
+Reverse Number
+
+Write a function that reverses the digits of a number.
+
+Example:
+Input: 123
+Output: 321
+
+Input: 4567
+Output: 7654
+
+Input: 100
+Output: 1
+
+Input: 0
+Output: 0
+
+Input: -123
+Output: -321
+
+Note: Handle negative numbers and trailing zeros.

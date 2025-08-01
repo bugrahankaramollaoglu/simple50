@@ -1,0 +1,18 @@
+Remove Duplicates from Array
+
+Write a function that removes duplicates from an array and returns a new array.
+
+Example:
+Input: [1, 2, 2, 3, 4, 4]
+Output: [1, 2, 3, 4]
+
+Input: [1, 1, 1]
+Output: [1]
+
+Input: [1, 2, 3]
+Output: [1, 2, 3]
+
+Input: []
+Output: []
+
+Note: Return a new array, don't modify the original.

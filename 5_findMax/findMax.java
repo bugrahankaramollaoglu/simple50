@@ -24,5 +24,5 @@ class findMax {
 	}
 }
 
-// time: O(n)
+// time: O(n) bunun daha kısası yok, her türlü traverse etmek zorundasın.
 // space: O(1)

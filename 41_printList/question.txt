@@ -1,0 +1,15 @@
+Print Linked List
+
+Write a function that prints all elements of a linked list.
+
+Example:
+Input: 1 -> 2 -> 3 -> 4 -> null
+Output: "1 -> 2 -> 3 -> 4 -> null"
+
+Input: 5 -> null
+Output: "5 -> null"
+
+Input: null
+Output: "null"
+
+Note: Print in format "value -> value -> ... -> null".

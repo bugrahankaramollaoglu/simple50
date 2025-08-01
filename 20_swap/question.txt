@@ -1,0 +1,18 @@
+Swap Values
+
+Write a function that swaps two values without using a temporary variable.
+
+Example:
+Input: a = 5, b = 10
+Output: a = 10, b = 5
+
+Input: a = 3, b = 7
+Output: a = 7, b = 3
+
+Input: a = 0, b = 1
+Output: a = 1, b = 0
+
+Input: a = 42, b = 42
+Output: a = 42, b = 42
+
+Note: Use arithmetic operations (+, -) or bitwise operations (^).

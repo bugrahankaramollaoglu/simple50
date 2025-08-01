@@ -1,0 +1,15 @@
+Reverse String
+
+Write a function that reverses a string.
+
+Example:
+Input: "hello"
+Output: "olleh"
+
+Input: "world"
+Output: "dlrow"
+
+Input: "racecar"
+Output: "racecar"
+
+Note: Do not use StringBuilder.reverse().

@@ -1,0 +1,16 @@
+Count Occurrences
+
+Write a function that counts the occurrences of a target element in an array.
+
+Example:
+Input: arr = [1, 2, 3, 2, 4, 2], target = 2
+Output: 3
+
+Input: arr = [1, 1, 1, 1], target = 1
+Output: 4
+
+Input: arr = [1, 2, 3], target = 5
+Output: 0
+
+Input: arr = [], target = 1
+Output: 0

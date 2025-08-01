@@ -1,0 +1,15 @@
+FizzBuzz
+
+Write a function that prints numbers from 1 to n, but for multiples of 3 print "Fizz", for multiples of 5 print "Buzz", and for multiples of both print "FizzBuzz".
+
+Example:
+Input: 15
+Output: ["1","2","Fizz","4","Buzz","Fizz","7","8","Fizz","Buzz","11","Fizz","13","14","FizzBuzz"]
+
+Input: 5
+Output: ["1","2","Fizz","4","Buzz"]
+
+Input: 3
+Output: ["1","2","Fizz"]
+
+Note: Return array of strings, not print to console.

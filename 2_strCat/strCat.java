@@ -14,7 +14,6 @@ class strCat {
 		System.out.println(myStrCat("   ", "        "));
 		System.out.println(myStrCat("bugra", "kara"));
 	}
-
 }
 
 // time -> o(n+m)

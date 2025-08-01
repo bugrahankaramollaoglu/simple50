@@ -4,7 +4,6 @@ class reverseStr {
 	public static String myReverseStr(String str) {
 		if (str == null || str.isBlank())
 			return "invalid input";
-
 		return new StringBuilder(str).reverse().toString();
 	}
 

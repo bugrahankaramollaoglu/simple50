@@ -1,0 +1,18 @@
+Perfect Number Check
+
+Write a function that checks if a number is perfect (sum of its divisors equals the number).
+
+Example:
+Input: 6
+Output: true (1 + 2 + 3 = 6)
+
+Input: 28
+Output: true (1 + 2 + 4 + 7 + 14 = 28)
+
+Input: 12
+Output: false
+
+Input: 1
+Output: false
+
+Note: Exclude the number itself from divisors.

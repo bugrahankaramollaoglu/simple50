@@ -1,0 +1,18 @@
+Second Largest Element
+
+Write a function that finds the second largest element in an array.
+
+Example:
+Input: [1, 5, 3, 9, 2]
+Output: 5
+
+Input: [10, 20, 30]
+Output: 20
+
+Input: [1, 1, 1]
+Output: 1
+
+Input: [42]
+Output: 42
+
+Note: If all elements are the same, return that element.

@@ -1,0 +1,21 @@
+Sum of Digits
+
+Write a function that calculates the sum of digits of a number.
+
+Example:
+Input: 123
+Output: 6 (1 + 2 + 3)
+
+Input: 456
+Output: 15 (4 + 5 + 6)
+
+Input: 999
+Output: 27 (9 + 9 + 9)
+
+Input: 0
+Output: 0
+
+Input: 10
+Output: 1 (1 + 0)
+
+Note: Handle negative numbers by taking absolute value.

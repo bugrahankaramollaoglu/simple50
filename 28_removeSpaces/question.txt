@@ -1,0 +1,18 @@
+Remove Spaces
+
+Write a function that removes all spaces from a string.
+
+Example:
+Input: "hello world"
+Output: "helloworld"
+
+Input: "  java  programming  "
+Output: "javaprogramming"
+
+Input: "no spaces"
+Output: "nospaces"
+
+Input: ""
+Output: ""
+
+Note: Remove all spaces, including leading and trailing.

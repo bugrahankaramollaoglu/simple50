@@ -1,0 +1,18 @@
+Reverse Linked List
+
+Write a function that reverses a linked list.
+
+Example:
+Input: 1 -> 2 -> 3 -> 4 -> null
+Output: 4 -> 3 -> 2 -> 1 -> null
+
+Input: 1 -> 2 -> null
+Output: 2 -> 1 -> null
+
+Input: null
+Output: null
+
+Input: 1 -> null
+Output: 1 -> null
+
+Note: Reverse the links between nodes, not just the values.

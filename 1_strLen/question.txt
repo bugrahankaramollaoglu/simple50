@@ -1,0 +1,12 @@
+String Length
+
+Write a function that returns the length of a string.
+
+Example:
+Input: "hello"
+Output: 5
+
+Input: ""
+Output: 0
+
+Note: Do not use the built-in length() method.

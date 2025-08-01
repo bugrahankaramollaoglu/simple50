@@ -1,0 +1,12 @@
+String Concatenation
+
+Write a function that concatenates two strings.
+
+Example:
+Input: str1 = "hello", str2 = "world"
+Output: "helloworld"
+
+Input: str1 = "java", str2 = "programming"
+Output: "javaprogramming"
+
+Note: Do not use the + operator or concat() method.

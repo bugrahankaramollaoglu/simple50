@@ -1,0 +1,18 @@
+Count Words
+
+Write a function that counts the number of words in a string.
+
+Example:
+Input: "hello world"
+Output: 2
+
+Input: "java programming is fun"
+Output: 4
+
+Input: "single"
+Output: 1
+
+Input: ""
+Output: 0
+
+Note: Words are separated by spaces.

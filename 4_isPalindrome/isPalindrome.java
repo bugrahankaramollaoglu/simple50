@@ -1,4 +1,4 @@
-// is a word palindrome? (madam, nurses run)
+// is a word palindrome? (madam, nursesrun)
 
 class isPalindrome {
 
@@ -13,19 +13,16 @@ class isPalindrome {
 	// two pointer tekniği ile O(1) space (without creating extra data structure)
 
 	public static boolean myIsPalindrome2(String str) {
-		if (str == null || str.isBlank())
-			return false;
 
-		int left = 0, right = str.length() - 1;
+		int left = 0, right = str.length()-1;
 		while (left < right) {
-			if (str.charAt(left) != str.charAt(right))
+			if (str.charAt(left) != str.charAt(right)) {
 				return false;
+			}
 			left++;
 			right--;
 		}
-
-		return true; // if no mismatches
-
+		return true;
 	}
 
 	public static void main(String[] args) {

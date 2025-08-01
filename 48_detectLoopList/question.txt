@@ -1,0 +1,18 @@
+Detect Loop in Linked List
+
+Write a function that detects if a linked list has a cycle.
+
+Example:
+Input: 1 -> 2 -> 3 -> 4 -> 2 (cycle)
+Output: true
+
+Input: 1 -> 2 -> 3 -> 4 -> null
+Output: false
+
+Input: 1 -> 1 (self-loop)
+Output: true
+
+Input: null
+Output: false
+
+Note: Use Floyd's cycle detection algorithm (tortoise and hare).
