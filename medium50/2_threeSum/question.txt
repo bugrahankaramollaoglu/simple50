@@ -1,0 +1,9 @@
+Three Sum
+
+Write a function that returns all unique triplets (a, b, c) in an integer array such that a + b + c = 0.
+
+Example:
+Input: [-1, 0, 1, 2, -1, -4]
+Output: [[-1, -1, 2], [-1, 0, 1]]
+
+Note: The solution set must not contain duplicate triplets. Order of triplets does not matter. 

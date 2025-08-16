@@ -1,0 +1,9 @@
+Group Anagrams
+
+Given an array of strings, group the anagrams together.
+
+Example:
+Input: ["eat","tea","tan","ate","nat","bat"]
+Output: [["bat"],["nat","tan"],["ate","eat","tea"]]
+
+You may return the groups in any order. 
