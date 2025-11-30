@@ -1,0 +1,18 @@
+Greatest Common Divisor (GCD)
+
+Write a function that finds the GCD of two numbers using Euclidean algorithm.
+
+Example:
+Input: a = 48, b = 18
+Output: 6
+
+Input: a = 54, b = 24
+Output: 6
+
+Input: a = 7, b = 13
+Output: 1
+
+Input: a = 0, b = 5
+Output: 5
+
+Note: GCD is the largest number that divides both numbers without remainder.

@@ -1,0 +1,21 @@
+Remove Duplicates from String
+
+Write a function that removes duplicate characters from a string.
+
+Example:
+Input: "hello"
+Output: "helo"
+
+Input: "programming"
+Output: "progamin"
+
+Input: "aabbcc"
+Output: "abc"
+
+Input: "java"
+Output: "java"
+
+Input: ""
+Output: ""
+
+Note: Maintain the order of characters.

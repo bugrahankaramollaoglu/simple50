@@ -1,0 +1,15 @@
+Remove Vowels
+
+Write a function that removes all vowels from a string.
+
+Example:
+Input: "hello"
+Output: "hll"
+
+Input: "programming"
+Output: "prgrmmng"
+
+Input: "aeiou"
+Output: ""
+
+Note: Vowels are a, e, i, o, u (both cases).

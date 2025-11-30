@@ -1,0 +1,18 @@
+Longest Word
+
+Write a function that finds the longest word in a string.
+
+Example:
+Input: "hello world"
+Output: "hello"
+
+Input: "java programming is fun"
+Output: "programming"
+
+Input: "a b c"
+Output: "a"
+
+Input: ""
+Output: ""
+
+Note: Return the longest word, not its length.

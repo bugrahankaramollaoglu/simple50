@@ -1,0 +1,18 @@
+Find Minimum
+
+Write a function that finds the minimum element in an array of integers.
+
+Example:
+Input: [1, 5, 3, 9, 2]
+Output: 1
+
+Input: [10, 20, 30]
+Output: 10
+
+Input: [-5, -10, -1]
+Output: -10
+
+Input: [42]
+Output: 42
+
+Note: Handle empty array case.

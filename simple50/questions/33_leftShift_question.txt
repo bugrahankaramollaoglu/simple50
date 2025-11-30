@@ -1,0 +1,15 @@
+Left Shift Array
+
+Write a function that shifts an array to the left by k positions.
+
+Example:
+Input: [1, 2, 3, 4, 5], k = 2
+Output: [3, 4, 5, 1, 2]
+
+Input: [1, 2, 3, 4], k = 1
+Output: [2, 3, 4, 1]
+
+Input: [1, 2, 3], k = 3
+Output: [1, 2, 3]
+
+Note: k can be larger than array length.

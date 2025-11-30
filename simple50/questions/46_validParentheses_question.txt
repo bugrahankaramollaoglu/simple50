@@ -1,0 +1,21 @@
+Valid Parentheses
+
+Write a function that checks if parentheses in a string are valid.
+
+Example:
+Input: "()"
+Output: true
+
+Input: "()[]{}"
+Output: true
+
+Input: "(]"
+Output: false
+
+Input: "([)]"
+Output: false
+
+Input: "{[]}"
+Output: true
+
+Note: Each opening bracket must have a corresponding closing bracket.

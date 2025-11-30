@@ -1,0 +1,18 @@
+Armstrong Number Check
+
+Write a function that checks if a number is an Armstrong number.
+
+Example:
+Input: 153
+Output: true (1³ + 5³ + 3³ = 153)
+
+Input: 370
+Output: true (3³ + 7³ + 0³ = 370)
+
+Input: 123
+Output: false
+
+Input: 1
+Output: true
+
+Note: Armstrong number equals sum of its digits raised to power of digit count.

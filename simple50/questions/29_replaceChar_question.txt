@@ -1,0 +1,18 @@
+Replace Character
+
+Write a function that replaces all occurrences of a character with another.
+
+Example:
+Input: "hello", 'l', 'x'
+Output: "hexxo"
+
+Input: "java", 'a', 'o'
+Output: "jovo"
+
+Input: "test", 't', 'p'
+Output: "pesp"
+
+Input: "abc", 'd', 'e'
+Output: "abc"
+
+Note: Replace all occurrences of oldChar with newChar.
